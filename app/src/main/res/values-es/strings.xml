@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Learning Contraint Layout</string>
+    <string name="to_label">oT:</string>
+    <string name="email_hint">blah blah blah</string>
+</resources>
